@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://homepages1.github.io/Pro-Pocket-Beauty/sitemap.xml
